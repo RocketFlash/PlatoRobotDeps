@@ -1,0 +1,6 @@
+ar.sublime*
+*.pyc
+.idea/
+cmake-build-debug/
+.~lock*
+*.traj
